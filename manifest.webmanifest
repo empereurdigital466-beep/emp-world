@@ -1,11 +1,11 @@
 {
-  "name": "EMP WORLD",
-  "short_name": "EMP WORLD",
+  "name": "Optimus NJ75",
+  "short_name": "Optimus NJ75",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#080c18",
   "theme_color": "#090d1b",
-  "description": "Play original mini-games in EMP WORLD.",
+  "description": "Play original mini-games in Optimus NJ75.",
   "icons": [
     {
       "src": "/icon.svg",
