@@ -1,0 +1,17 @@
+{
+  "name": "EMP WORLD",
+  "short_name": "EMP WORLD",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080c18",
+  "theme_color": "#090d1b",
+  "description": "Play original mini-games in EMP WORLD.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
