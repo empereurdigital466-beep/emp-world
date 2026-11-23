@@ -1,2 +1,17 @@
-# emp-world
-🌍 EMP WORLD is an international gaming platform featuring fun, original and addictive mini-games. Play, challenge yourself, beat high scores and compete with players around the world. Built for mobile and desktop. Free to play!
+# EMP WORLD 🌍
+
+An international arcade featuring original, mobile-friendly mini-games.
+
+## Available
+- **EMP RUN** — an endless runner with keyboard and touch controls.
+- **EMP BLOCK** — coming in a future update.
+
+## Run locally
+Open `index.html` in a browser or serve this folder with any static web server. No build step or dependencies are required.
+
+## Features
+- Responsive layout for phones and desktop
+- Local best-score saving
+- Installable PWA shell and basic offline caching
+
+All games are original projects. Scores are stored on the player's device; online accounts and global leaderboards are not implemented yet.
